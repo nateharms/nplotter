@@ -13,4 +13,6 @@ Below is my code to make this all work, but before you run this you will need th
 - `matplotlib`
 - `seaborn` 
 
-To recreate this with your own listening data, simply request your listening data from Spotify ([a tutorial is on this website](https://www.makeuseof.com/tag/download-privacy-data-spotify/)) and move your `StreamingHistoryX.json` files into this directory. 
+You can either install these into your own enviornment or create an `nplt_env` conda environment by running `conda env create -f enviornment.yml`.
+
+To recreate this with your own listening data, simply request your listening data from Spotify ([a tutorial is on this website](https://www.makeuseof.com/tag/download-privacy-data-spotify/)) and move your `StreamingHistoryX.json` files into this directory. And if you have any suggestions of more fun plots, feel free to open issues!
