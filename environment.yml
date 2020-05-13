@@ -1,0 +1,12 @@
+name: nplt_env
+channels:
+  - defaults
+  - anaconda
+  - conda-forge
+dependencies:
+  - python >= 3.6
+  - jupyter
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
